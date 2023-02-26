@@ -9,7 +9,7 @@ I have been coding and building analytics solutions for 4 since I made a career 
 I love school so I got an MSc in Data Analytics (Distinction). I put all my outstanding projects in the academic projects repo. 
 
 Data and BI Developer: @baosystems 
-Data Product Owner: myDoctorCloud 
+Data Product Owner: myHospitalCloud 
 Data Product Advisory: Agnes Global UK 
 
 My passion for health technology solutions have grown tremendously. I'm building the LAV Pro App: The first-generation HIV data compliance mobile application. To tackle the $1.6B Funds wastage from poor data quality and support accurate figures for the distribution of HIV testing and treatment kits. Contact me for a collaboration.
