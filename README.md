@@ -15,7 +15,7 @@ Data Product Advisory: Agnes Global UK
 My passion for health technology solutions have grown tremendously. I'm building the LAV Pro App: The first-generation HIV data compliance mobile application. To tackle the $1.6B Funds wastage from poor data quality and support accurate figures for the distribution of HIV testing and treatment kits. Contact me for a collaboration.
 
 *   🌍  I'm based in London
-*   🖥️  See my portfolio at [My Website:](http:///www.maryamolaniyan.com/portfolio)
+*   🖥️  See my portfolio at [My Website](http:///www.maryamolaniyan.com/portfolio)
 *   ✉️  You can contact me at [hello@maryamolaniyan.com](mailto:hello@maryamolaniyan.com)
 *   🧠  I'm learning Flutter, CI/CD, DataOps
 *   🤝  I'm open to collaborating on ML Projects and Data Application Development
