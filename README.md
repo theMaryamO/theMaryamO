@@ -14,7 +14,7 @@ I have been coding and building analytics solutions for 4 since I made a career 
 *   ⚡  I am the Beyonce of Analytics
 
 <a href="https://www.github.com/theMaryamO" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/theMaryamO?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/TheMaryamO" target="_blank" rel="noreferrer"><img
+                  src="https://img.shields.io/github/followers/theMaryamO?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>  <a href="https://www.twitter.com/TheMaryamO" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/TheMaryamO?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
                 /></a>
                 
