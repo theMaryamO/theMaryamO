@@ -4,9 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data & BI Developer
 -------------------
 
-I have been coding and building analytics solutions for 4 since I made a career switch to tech. 
-
-I love school so I got an MSc in Data Analytics (Distinction). I put all my outstanding projects in the academic projects repo. 
+I have been coding and building analytics solutions for 8 years.
+I love school, so I got an MSc in Data Analytics (Distinction). I put all my outstanding projects in the academic projects repo. 
 
 Data and BI Developer: @baosystems 
 Data Product Owner: myHospitalCloud 
